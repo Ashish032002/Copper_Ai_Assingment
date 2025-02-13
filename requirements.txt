@@ -1,0 +1,21 @@
+# Core Data Science Libraries
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Visualization Libraries
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Model Persistence
+joblib>=1.3.0
+
+# Optional Dependencies for Enhanced Functionality
+pytest>=7.0.0  # For testing
+black>=23.0.0  # For code formatting
+pylint>=2.17.0  # For code linting
