@@ -87,24 +87,6 @@ predictions = model.predict(your_data)
 | Neural Network | ~94% |
 | KNN | ~93% |
 
-## Contributing 🤝
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License 📝
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments 🙏
-- Dataset provided by UCI Machine Learning Repository
-- Thanks to all contributors who have helped to improve this project
-
-## Contact 📧
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/cancer-prediction-analysis](https://github.com/yourusername/cancer-prediction-analysis)
 
 ## Future Improvements 🔮
 - [ ] Implement more advanced models
@@ -113,5 +95,3 @@ Project Link: [https://github.com/yourusername/cancer-prediction-analysis](https
 - [ ] Add more visualization options
 - [ ] Implement ensemble methods
 
----
-⭐ Don't forget to give the project a star if you found it helpful! ⭐
