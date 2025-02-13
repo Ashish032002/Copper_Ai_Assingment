@@ -29,8 +29,8 @@ This project implements machine learning models to predict cancer diagnosis base
 ## Installation 💻
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cancer-prediction-analysis.git
-cd cancer-prediction-analysis
+git clone https://github.com/Ashish032002/Copper_Ai_Assingment.git
+cd Copper_Ai_Assingment
 ```
 
 2. Create a virtual environment (recommended)
